@@ -41,12 +41,7 @@
 
 
 
-# UML
- ![usecase](https://github.com/99002463/calculator/blob/master/UML/usecase.png)
- ![class](https://github.com/99002463/calculator/blob/master/UML/class.png)
- ![sequence](https://github.com/99002463/calculator/blob/master/UML/sequence.png)
- ![model](https://github.com/99002463/calculator/blob/master/UML/model.png)
- ![tread](https://github.com/99002463/calculator/blob/master/UML/thread.png)
+
 
 
 
