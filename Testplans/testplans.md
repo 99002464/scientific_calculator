@@ -14,7 +14,7 @@
 
 * calculator(100,-120,1)                        -20                                                                                     -20
     
-* calculator(-7,7,2));                         -49                                                                                      -49
+* calculator(-7,10,2));                         -70                                                                                      -70
    
 * calculator(9,8,2));                           72                                                                                       72
     
