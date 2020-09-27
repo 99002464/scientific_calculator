@@ -22,7 +22,7 @@
     
 * calculator(5,50,2));                          250                                                                                      250
     
-* calculator(7,5,4));                            0                                                                                        0
+* calculator(117,9,4));                          13                                                                                       13
    
 * calculator(52,26,4));                          2                                                                                        2
   
