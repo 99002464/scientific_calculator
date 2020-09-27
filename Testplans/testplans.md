@@ -24,6 +24,6 @@
     
 * calculator(117,9,4));                          13                                                                                       13
    
-* calculator(52,26,4));                          2                                                                                        2
+* calculator(26,13,4));                          2                                                                                        2
   
 * calculator(158,58,4));                         0                                                                                        0
