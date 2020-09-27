@@ -2,7 +2,7 @@
 
 * calculator(1,3,0));                           4                                                                                      4
 
-* calculator(10,-5,0));                          1                                                                                        1
+* calculator(10,-9,0));                          1                                                                                        1
 
 * calculator(45,55,0));                        100                                                                                      100
 
