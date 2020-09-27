@@ -1,5 +1,5 @@
 SRC = unity/unity.c\
-src/p_cal.c\
+src/s_cal.c\
 test/p_test.c
 
 INC = -Iunity\
