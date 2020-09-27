@@ -1,15 +1,16 @@
 # Requirements
 
   ## Required Capabilities
-  
-    * The user can add two numbers
-    * The user can subtract two numbers
-    * The user can multiply two numbers
-    * The user can divide two numbers
-    * The user can do matrix operation
-    * The user can start a new calculation
-    * The user can chain operations.
-    
+    * The user can perform all the task like:-
+    1. Addition.
+    2. Subtract.
+    3. Multiply.
+    4. Divide.
+    * The user can also perform other action like:-
+    1. Matrix operation.
+    2. Chain operation.
+    * The user can also start a new calculation
+ 
   ## Non-Functional Requirements
   
     * The implementation is based on array pointer using c.
