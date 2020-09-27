@@ -11,7 +11,6 @@
     * The user can also perform other action like:-
     1. Matrix operation.
     2. Chain operation.
-    
     * The user can also start a new calculation.
  
   ## Non-Functional Requirements
