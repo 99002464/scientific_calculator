@@ -1,4 +1,4 @@
-# TEST CASES                               # EXPECTED O/P                                                                             # ACTUAL O/P
+# TEST CASES                               # EXPECTED O/P                                                                           # ACTUAL O/P
 
 * calculator(4,5,0));                           9                                                                                        9
 
