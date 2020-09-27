@@ -10,9 +10,9 @@
 
 * calculator(9,5,1)                             4                                                                                        4
 
-* calculator(100,56,1)                          43                                                                                      43
+* calculator(100,56,1)                          44                                                                                      44
 
-* calculator(58,65,1)                          -7                                                                                       -7
+* calculator(100,-120,1)                        -20                                                                                     -20
     
 * calculator(-7,7,2));                         -49                                                                                      -49
    
