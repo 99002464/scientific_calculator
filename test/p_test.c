@@ -19,7 +19,6 @@ TEST_ASSERT_EQUAL(9,calculator(4,5,0));
 }
 void test_calculator_sub(void)
 {
-
   TEST_ASSERT_EQUAL(7,calculator(9,2,1));
     TEST_ASSERT_EQUAL(43,calculator(45,2,1));
     TEST_ASSERT_EQUAL(-7,calculator(58,65,1));
