@@ -37,6 +37,7 @@ void test_multi(void)
 
 void test_div(void)
 {
+  
   TEST_ASSERT_EQUAL(0,calculator(7,5,4));
    TEST_ASSERT_EQUAL(2,calculator(52,26,4));
    TEST_ASSERT_EQUAL(0,calculator(158,58,4));
