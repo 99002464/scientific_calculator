@@ -10,8 +10,8 @@
 * Simple mathematical operations like addition,subtraction,division,multiplication.
 * Power function.
 * Matrix operations like:- 
-1.Matrix sum
-2.Matrix subtraction.
+* 1.Matrix sum
+* 2.Matrix subtraction.
 
 # Requirements
 
