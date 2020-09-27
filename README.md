@@ -4,7 +4,7 @@
 
  
 * Application will work with different arithmatic operations.
-* Trigonometric Operations like sin,cos,tan,cot,sec,cosec.
+* All trigonometric Operations like sin,cos,tan,cot,sec,cosec.
 * Factorials.
 * Logarithm.
 * Simple mathematical operations like addition,subtraction,division,multiplication.
