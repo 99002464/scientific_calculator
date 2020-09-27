@@ -13,7 +13,8 @@
  
   ## Non-Functional Requirements
   
-    * The implementation is based on array pointer using c.
+    * The implementation is based on array pointer.
+    * The code is written in C.
     * The tests are written using visual studio code.
    
   ## Non-Requirements
