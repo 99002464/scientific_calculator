@@ -9,7 +9,9 @@
 * Logarithm.
 * Simple mathematical operations like addition,subtraction,division,multiplication.
 * Power function.
-* Matrix operations like matrix sum and matrix subtraction.
+* Matrix operations like:- 
+1.Matrix sum
+2.Matrix subtraction.
 
 # Requirements
 
