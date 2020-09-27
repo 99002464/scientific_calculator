@@ -8,7 +8,7 @@
 
 * matrix(0);                                    0                                                                                        0
 
-* calculator(9,2,1)                             7                                                                                        7
+* calculator(9,5,1)                             7                                                                                        7
 
 * calculator(45,2,1)                            43                                                                                      43
 
