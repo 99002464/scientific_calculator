@@ -2,9 +2,9 @@
 
 * calculator(1,3,0));                           4                                                                                      4
 
-* calculator(10,-9,0));                          1                                                                                        1
+* calculator(10,-9,0));                          1                                                                                      1
 
-* calculator(4500,5500,0));                    100                                                                                      100
+* calculator(4500,5500,0));                    10000                                                                                   10000
 
 * matrix(0);                                    0                                                                                        0
 
