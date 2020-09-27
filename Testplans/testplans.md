@@ -10,7 +10,7 @@
 
 * calculator(9,5,1)                             4                                                                                        4
 
-* calculator(45,2,1)                            43                                                                                      43
+* calculator(100,56,1)                          43                                                                                      43
 
 * calculator(58,65,1)                          -7                                                                                       -7
     
