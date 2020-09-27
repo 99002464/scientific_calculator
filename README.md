@@ -2,6 +2,7 @@
 
 
 
+
 * Application will work with different arithmatic operations.
 * All trigonometric Operations like sin,cos,tan,cot,sec,cosec.
 * Factorials.
