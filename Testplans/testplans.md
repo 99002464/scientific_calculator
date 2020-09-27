@@ -16,7 +16,7 @@
     
 * calculator(-7,10,2));                         -70                                                                                      -70
    
-* calculator(9,8,2));                           72                                                                                       72
+* calculator(50,32,2));                          1600                                                                                     1600
     
 * calculator(10,15,2));                         150                                                                                      150 
     
