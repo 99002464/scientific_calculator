@@ -20,5 +20,5 @@
   ## Non-Requirements
   
     * The user can perform operations beyond arithmetic.
-    * The user can store a value in memory for later use
+    * The user can store a value in memory for later use.
     * When the user enters an expression with more than two operands, operator precedence is applied.
